@@ -14,7 +14,7 @@ The dataset used for this project is in Parquet format due to its large size and
 
 Note: Due to the large size of the dataset, it is hosted on Google Drive. You can download the dataset from the following link:
 
-Download Dataset from Google Drive
+https://drive.google.com/file/d/1JpZbZFThjJWjkh85Ta0UDMes571EEwSN/view?usp=sharing
 
 Key Components:
 
